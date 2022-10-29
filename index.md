@@ -24,3 +24,4 @@
 ## სესიები 
 
 - [სესია 0](sessions/session-0.html)
+- [სესია 1](sessions/session-1.html)
